@@ -1,2 +1,1 @@
-# Memory-Game
-A Memory Game whereby the user types in a few words in order and then has to type them out again in order using memory.
+A Memory Game whereby the user types in a few words in order and then has to type them out again in order using memory. The normal game does have a limitation though: you can only select a limited amount of word amounts (epic English); however, that is 'fixed' in the "Alternative Game" file.
